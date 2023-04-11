@@ -5,5 +5,5 @@ In this project we use the data from -> https://data.gov.il/dataset/satisfaction
 
 Link to dashboard : https://public.tableau.com/app/profile/meliha.pa.i.dzafi./viz/Hospital_data_visualization/Dashboard1
 
-<img src="C:/Users/Admin/Downloads/slika.png" alt="Alt text" title="Optional title">
+
 
