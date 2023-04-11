@@ -1,4 +1,4 @@
-# Data-cleaning-in-python and visualization in Tableau
+# Data cleaning in python and visualization in Tableau
 
 Cleaning hospital dataset in python and then making visualization in Tableau.
 
